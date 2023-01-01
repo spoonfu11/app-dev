@@ -10,4 +10,4 @@ My first repository
 *Blue Lock was released on Blu-ray and DVD in four volumes from January 27, 2023 to July 28, 2023*
 
 [BLUELOCK](https://www1.gogoanime.bid/category/blue-lock)
-![YOICHI ISAGI]([image.jpg](https://api.duniagames.co.id/api/content/upload/file/9934679511669609308.jpg))
+[YOICHI ISAGI]([image.jpg](https://api.duniagames.co.id/api/content/upload/file/9934679511669609308.jpg))
