@@ -11,4 +11,4 @@ My first repository
 
 [BLUELOCK](https://www1.gogoanime.bid/category/blue-lock)
 
-[YOICHI ISAGI](https://api.duniagames.co.id/api/content/upload/file/9934679511669609308.jpg)
+![YOICHI ISAGI](https://api.duniagames.co.id/api/content/upload/file/9934679511669609308.jpg)
